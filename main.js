@@ -4,7 +4,7 @@
 // @match       https://www.studydrive.net/*/doc/*
 // @grant       GM_xmlhttpRequest
 // @grant       GM_download
-// @version     1.2.2
+// @version     1.2.3
 // @author      steffanossa & abrorkhon02
 // @license     MIT
 // @description Stellt die Downloadmöglichkeit für Dokumente wieder her.
